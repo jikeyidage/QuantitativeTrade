@@ -1,0 +1,36 @@
+{
+    "binance": {
+        "api_key": "5hOkj7s4y29llS2pPJjiBgMkw1skmOFUH5XdbBMREpdNBDOUTjZFV8z2PyODR9LO",
+        "api_secret": "ElCIwoIYoWVAhZUcDo5RUcC4IBSAQxQMB68c4k7LGzZWDCbYyICdBMLK0JpR9Lm1",
+        "passphrase": ""
+    },
+    "binance_testnet": {
+        "api_key": "5wOfsF4xWeaH2DOSfE9eKTOGiCWmUUESQdsBpYN7zyYkEt9woQ0p10PawO23jpsN",
+        "api_secret": "F866yCyB4To7VFmVcp2bfwnpMUTrhr2cl9PDIAup4xQNyN97YdBKTBNYLJfGe83k",
+        "passphrase": ""
+    },
+    "okx": {
+        "api_key": "7de0e408-c2ec-441c-ad5a-4a1381526994",
+        "api_secret": "29B28334D2CD61ABF1CB4C9906C19A7C",
+        "passphrase": ""
+    },
+    "gate": {
+        "name":"梁山量化游击队",
+        "api_key": "f57033f64d660da9a6e3af6a75940b65",
+        "api_secret": "b94877ece8e28acdd05e71898c3ed1c7e68ce63766a3e2c8fbc96b5c6fe6f528"
+    },
+    "dydx": {
+        "api_key": "",
+        "api_secret": "",
+        "passphrase": "",
+        "stark_private_key": ""
+    },
+    "hyperliquid": {
+        "name":"api_my_wallet",
+        "address": "0x19F89E6E11FE7f2dc43E0B94652c0D05Fc62cB0E",
+        "private_key": "0x56ebab992b7ac14dc95bae3cb9cb6c4aa1823deed6b711959d748f3478ac9218"
+    },
+    "serum": {
+        "private_key": ""
+    }
+}

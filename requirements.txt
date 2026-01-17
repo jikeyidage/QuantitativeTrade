@@ -1,0 +1,7 @@
+#依赖包（暂定）（mac conda环境 python=3.10)
+certifi==2025.10.5
+charset-normalizer==3.4.4
+idna==3.11
+requests==2.32.5
+urllib3==2.5.0
+websockets==15.0.1
